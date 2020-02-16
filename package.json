@@ -1,0 +1,19 @@
+{
+  "name": "test-typescript-2020",
+  "version": "1.0.0",
+  "description": "pruebas de typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juanvs23/testTypescript.git"
+  },
+  "author": "juan Carlos avila",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juanvs23/testTypescript/issues"
+  },
+  "homepage": "https://github.com/juanvs23/testTypescript#readme"
+}
